@@ -1,0 +1,14 @@
+{
+  "name": "chromecast-can-play",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Kusterer",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.0-rc3"
+  }
+}
